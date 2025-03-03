@@ -15,4 +15,4 @@ This tool is intended for **educational purposes only** and for penetration test
 To install the required library, run the following command:
 
 ```bash
-pip install git+https://github.com/ping/instagram_private_api.git@1.6.0
+pip install instagram-private-api
